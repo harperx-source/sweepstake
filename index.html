@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Sweepstake HQ</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>World Cup 2026 Sweepstake</h1>
+  </header>
+  <main>
+    <section id="leaderboard">
+      <h2>Player Teams</h2>
+      <div id="players"></div>
+    </section>
+    <section id="fixtures">
+      <h2>Latest Results</h2>
+      <p id="fixtures-loading">Loading latest results…</p>
+      <ul id="match-results"></ul>
+      <p class="api-note">
+        Data provided by the free <a href="https://worldcupjson.net" target="_blank" rel="noopener">WorldCupJSON</a> API. Results update automatically when new matches complete.
+      </p>
+    </section>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>
