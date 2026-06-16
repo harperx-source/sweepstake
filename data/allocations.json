@@ -1,0 +1,246 @@
+{
+  "players": [
+    {
+      "name": "John",
+      "teams": [
+        {
+          "pool": "GOLD",
+          "team": "Brazil"
+        },
+        {
+          "pool": "SILVER",
+          "team": "Senegal"
+        },
+        {
+          "pool": "BRONZE",
+          "team": "DR Congo"
+        },
+        {
+          "pool": "BRONZE",
+          "team": "Australia"
+        },
+        {
+          "pool": "BRONZE",
+          "team": "Bosnia and Herzegovina"
+        }
+      ]
+    },
+    {
+      "name": "Kirsty",
+      "teams": [
+        {
+          "pool": "GOLD",
+          "team": "France"
+        },
+        {
+          "pool": "SILVER",
+          "team": "Norway"
+        },
+        {
+          "pool": "BRONZE",
+          "team": "Algeria"
+        },
+        {
+          "pool": "BRONZE",
+          "team": "Egypt"
+        },
+        {
+          "pool": "BRONZE",
+          "team": "Ecuador"
+        }
+      ]
+    },
+    {
+      "name": "Amelia",
+      "teams": [
+        {
+          "pool": "GOLD",
+          "team": "Spain"
+        },
+        {
+          "pool": "SILVER",
+          "team": "T\u00fcrkiye"
+        },
+        {
+          "pool": "BRONZE",
+          "team": "South Korea"
+        },
+        {
+          "pool": "BRONZE",
+          "team": "Scotland"
+        },
+        {
+          "pool": "BRONZE",
+          "team": "South Africa"
+        }
+      ]
+    },
+    {
+      "name": "Felicity",
+      "teams": [
+        {
+          "pool": "GOLD",
+          "team": "England"
+        },
+        {
+          "pool": "SILVER",
+          "team": "Switzerland"
+        },
+        {
+          "pool": "BRONZE",
+          "team": "IR Iran"
+        },
+        {
+          "pool": "BRONZE",
+          "team": "Ghana"
+        },
+        {
+          "pool": "BRONZE",
+          "team": "Panama"
+        }
+      ]
+    },
+    {
+      "name": "Julie",
+      "teams": [
+        {
+          "pool": "GOLD",
+          "team": "Belgium"
+        },
+        {
+          "pool": "SILVER",
+          "team": "Croatia"
+        },
+        {
+          "pool": "BRONZE",
+          "team": "Iraq"
+        },
+        {
+          "pool": "BRONZE",
+          "team": "Ivory Coast"
+        }
+      ]
+    },
+    {
+      "name": "Ian",
+      "teams": [
+        {
+          "pool": "GOLD",
+          "team": "Uruguay"
+        },
+        {
+          "pool": "SILVER",
+          "team": "USA"
+        },
+        {
+          "pool": "BRONZE",
+          "team": "Haiti"
+        },
+        {
+          "pool": "BRONZE",
+          "team": "New Zealand"
+        },
+        {
+          "pool": "BRONZE",
+          "team": "Tunisia"
+        }
+      ]
+    },
+    {
+      "name": "Samantha",
+      "teams": [
+        {
+          "pool": "GOLD",
+          "team": "Portugal"
+        },
+        {
+          "pool": "SILVER",
+          "team": "Japan"
+        },
+        {
+          "pool": "BRONZE",
+          "team": "Uzbekistan"
+        },
+        {
+          "pool": "BRONZE",
+          "team": "Austria"
+        },
+        {
+          "pool": "BRONZE",
+          "team": "Czechia"
+        }
+      ]
+    },
+    {
+      "name": "Andrew",
+      "teams": [
+        {
+          "pool": "GOLD",
+          "team": "Netherlands"
+        },
+        {
+          "pool": "SILVER",
+          "team": "Morocco"
+        },
+        {
+          "pool": "BRONZE",
+          "team": "Cabo Verde"
+        },
+        {
+          "pool": "BRONZE",
+          "team": "Saudi Arabia"
+        }
+      ]
+    },
+    {
+      "name": "George",
+      "teams": [
+        {
+          "pool": "GOLD",
+          "team": "Argentina"
+        },
+        {
+          "pool": "SILVER",
+          "team": "Colombia"
+        },
+        {
+          "pool": "BRONZE",
+          "team": "Sweden"
+        },
+        {
+          "pool": "BRONZE",
+          "team": "Jordan"
+        },
+        {
+          "pool": "BRONZE",
+          "team": "Cura\u00e7ao"
+        }
+      ]
+    },
+    {
+      "name": "Sophie",
+      "teams": [
+        {
+          "pool": "GOLD",
+          "team": "Germany"
+        },
+        {
+          "pool": "SILVER",
+          "team": "Mexico"
+        },
+        {
+          "pool": "BRONZE",
+          "team": "Qatar"
+        },
+        {
+          "pool": "BRONZE",
+          "team": "Paraguay"
+        },
+        {
+          "pool": "BRONZE",
+          "team": "Canada"
+        }
+      ]
+    }
+  ]
+}
